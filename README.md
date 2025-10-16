@@ -1,4 +1,4 @@
-## Installation for Linux distribution only
+## Installation is for Linux distribution only
     tar zxvf alacritty-bin.tar.gz
     sudo cp Alacritty.svg /usr/share/pixmaps/Alacritty.svg
     sudo cp alacritty /usr/local/bin
