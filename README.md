@@ -5,6 +5,5 @@
     sudo cp Alacritty.desktop /usr/share/applications/
     cp alacritty.bash ~/.bash_alacritty
     mkdir -p ~/.config/alacritty/ && cp alacritty.toml ~/.config/alacritty/
-
-<p>Add the line below to ~/.bash_profile.</p>
+    # Add the line below to ~/.bash_profile.
     [[ -f ~/.bash_alacritty ]] && source ~/.bash_alacritty
